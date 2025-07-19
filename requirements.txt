@@ -1,0 +1,7 @@
+certifi
+charset-normalizer
+idna
+nvidia-ml-py3
+psutil
+requests
+urllib3

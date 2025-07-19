@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+ENV/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Misc
+*.bak
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test output
+htmlcov/
+.coverage
+.tox/
+
+# Ollama models (if any are downloaded here)
+ollama_models/ 
