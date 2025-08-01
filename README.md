@@ -130,18 +130,6 @@ Response: Paris is the capital of France.
 
 ---
 
-## 🧑‍💻 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change. 🙏
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## 🙏 Acknowledgements
 
 - [Ollama](https://ollama.com/) for their amazing local LLM platform.
